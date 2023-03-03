@@ -1,0 +1,11 @@
+{
+  "name": "whisper-api",
+  "version": "1.0.0",
+  "description": "simple connection to whisper api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "falldeaf",
+  "license": "ISC"
+}
